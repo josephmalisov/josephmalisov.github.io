@@ -95,6 +95,12 @@ After generating a plan, a sticky footer shows up with an export button. It uses
 - Draft the assistant prompts / test them (I made bots to generate example prompts for my bots)
 - Set up external tools (like Render and OpenAI Integrations)
 
+Examples of some prompts I asked ChatGPT:
+![Screenshot of conversation topics in PathPilot](/assets/screenshots/Asking_ChatGPT_Questions.png)
+
+And a personal favorite:
+![Having ChatGPT write the prompt...](/assets/screenshots/Having_ChatGPT_write_the_prompt.png)
+
 I would note that it was important to consider when to use which tool. Cursor was great for some things, like debugging without having to copy/paste into ChatGPT. ChatGPT was better for giving advice on integrations.
 
 ---
