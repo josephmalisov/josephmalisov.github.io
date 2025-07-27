@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building PathPilot with Cursor, ChatGPT, and Some Coffee"
-date: 2025-07-27
+date: 2025-07-27 10:30:00
 categories: [ai, coding, projects]
 tags: [react, openai, gpt-4, cursor, pdf, supabase]
 ---
