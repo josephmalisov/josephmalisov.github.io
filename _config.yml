@@ -21,11 +21,10 @@
 title: Joseph Malisov's Blog
 email: joseph@malisov.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog about technology, programming, and life. Sharing thoughts,
+  Personal blog about technology, programming, and whatever else. Sharing thoughts,
   tutorials, and insights from my journey in software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://josephmalisov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josephmalisov
 github_username: josephmalisov
 
 # Build settings
