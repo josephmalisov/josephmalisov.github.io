@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Joseph Malisov's Blog
-email: joseph@malisov.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog about technology, programming, and whatever else. Sharing thoughts,
   tutorials, and insights from my journey in software development.
