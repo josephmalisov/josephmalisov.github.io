@@ -86,9 +86,9 @@ After generating a plan, a sticky footer shows up with an export button. It uses
 
 ### Tools That Helped
 
-#### **Cursor**: **Live chat with the codebase + Git integration. It saved me hours.**
+#### **Cursor**: Live chat with the codebase + Git integration. It saved me hours.
 
-#### **ChatGPT**: **It helped me:**
+#### **ChatGPT**: It helped me:
 
 - Brainstorm
 - Talk through design decisions
