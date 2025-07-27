@@ -5,10 +5,10 @@ date:   2025-07-27 09:02:58 -0800
 categories: blog introduction
 ---
 
-## Hello World! 🌍
+## Hello World!
 
-Welcome to my personal blog! I'm excited to start sharing my thoughts, experiences, and insights about technology, programming, and life as a software developer.
+Welcome to my personal blog! I'm excited to share new projects (and failures) I work on.
 
-This is where I'll be writing about my journey in software development, sharing tutorials, and exploring the latest in technology.
+This is where I'll be writing about my journey in software development, sharing tutorials exploring the latest in technology, and sometimes using AI.
 
 Stay tuned for more posts coming soon!
