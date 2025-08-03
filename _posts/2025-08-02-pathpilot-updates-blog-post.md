@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "PathPilot Gets Serious: Authentication and Chat History"
+title: "PathPilot Gets a Database: Authentication and Chat History"
 date: 2025-08-02 10:30:00
 categories: [ai, coding, projects]
 tags: [react, openai, gpt-4, cursor, supabase, authentication, jwt]
 ---
-
-## PathPilot Gets a Database: Authentication and Chat History
 
 Two weeks ago, PathPilot was a proof of concept. Today... it still is but it also has now has user accounts and persistent chat history. Leveraging Cursor to build it saved on time for most things, but led to bad engineering at others.
 
