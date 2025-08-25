@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PathPilot Gets a Database: Authentication and Chat History"
-date: 2025-08-02 10:30:00
+date: 9999-12-31 10:30:00
 categories: [ai, coding, projects]
 tags: [react, openai, gpt-4, cursor, supabase, authentication, jwt]
 ---
